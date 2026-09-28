@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a27a63456d33be4d9ed0c171eb60dee, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - text: '- Bouger avec Z Q S D
+
+      - Prochain dialogue avec SPACE
+
+'
+  - text: "- Utilisez le levier pour bouger le vaisseau. \n- Vous devez cliquer dessus
+      puis utiliser la molette"
+  - text: "- Chaque boutons est li\xE9 \xE0 une rotation\n- X : Gauche/Droite\n-
+      Y : Haut/Bas"
+  - text: Votre but est d'aller au centre de la terre.
+  textSpeed: 0.05
